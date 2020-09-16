@@ -51,7 +51,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     static double longitude = 151.1957362;
     static double latitude =  -33.8670522;
     private int PROXIMITY_RADIUS = 20000; //feet
-    private String key = "AIzaSyDJA3hw4fZtNQo9hF_GjF-ZWGYS5rtCAvc";
+    private String key = "API_KEY";
     String keyword = "gas";
     String type = "gas_station";
 
